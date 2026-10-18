@@ -1,5 +1,5 @@
 // Change VERSION whenever you upload a new version of the game, so phones pick up the update.
-const VERSION = 'planites-v1';
+const VERSION = 'planites-v2';
 const CORE = [
   './',
   './index.html',
